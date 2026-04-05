@@ -53,7 +53,7 @@ A premium, visually immersive digital agency landing page built as part of the *
 ## 📂 Project Structure
 
 ```
-JT1-Flocka
+Flocka
 ├─ eslint.config.js
 ├─ index.html
 ├─ package-lock.json
