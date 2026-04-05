@@ -5,7 +5,7 @@
 ![Styling](https://img.shields.io/badge/Tailwind-4.0-38b2ac)
 ![Animations](https://img.shields.io/badge/GSAP-3.14-green)
 
-A premium, visually immersive digital agency landing page built as part of the **Taoshiflex Venture & Solution** ecosystem. This project showcases the intersection of high-performance frontend engineering and creative design, featuring advanced scroll-driven animations and 3D graphics.
+A premium, visually immersive digital agency landing page built as part of the **Taoshiflex Venture** ecosystem. This project showcases the intersection of high-performance frontend engineering and creative design, featuring advanced scroll-driven animations and 3D graphics.
 
 ---
 
