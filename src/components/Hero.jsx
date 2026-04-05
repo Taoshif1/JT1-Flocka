@@ -45,13 +45,8 @@ const Hero = () => {
         </video>
       </div>
 
-      {/* Responsive Container */}
       <div className="relative z-20 w-full h-full flex flex-col items-center justify-center lg:flex-row lg:justify-between lg:items-end px-6 md:px-16 pb-12 md:pb-24">
-        <div className="lg:hidden absolute top-10">
-          <Logo />
-        </div>
 
-        {/* Middle Text */}
         <div className="text-white text-center lg:text-left mt-20 lg:mt-0">
           <div className="overflow-hidden">
             <h1 className="hero-line text-[clamp(3.5rem,12vw,12rem)] font-bold leading-[0.8] tracking-tighter">
@@ -65,7 +60,6 @@ const Hero = () => {
           </div>
         </div>
 
-        {/* Bottom Right Card */}
         <div className="card-anim absolute bottom-8 right-6 lg:relative lg:bottom-0 lg:right-0 scale-90 md:scale-100">
           <BrandCard />
         </div>
