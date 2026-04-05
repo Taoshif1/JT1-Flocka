@@ -11,6 +11,7 @@ import Footer from "../components/Footer";
 import AwardsSection from "../components/AwardsSection";
 import TeamSection from "../components/TeamSection";
 import FAQSection from "../components/FAQSection";
+import BlogSection from "../components/BlogSection";
 
 const Home = () => {
   return (
@@ -29,6 +30,7 @@ const Home = () => {
       <AwardsSection></AwardsSection>
       <TeamSection></TeamSection>
       <FAQSection></FAQSection>
+      <BlogSection></BlogSection>
       <Footer></Footer>
     </>
   );
