@@ -5,6 +5,7 @@ import Portfolio from "../components/Portfolio";
 import ExpertiseAccordion from "../components/ExpertiseAccordion";
 import FunFacts from "../components/FunFacts";
 import HappyUsers from "../components/HappyUsers";
+import UserFeedbacks from "../components/UserFeedbacks";
 
 const Home = () => {
   return (
@@ -18,6 +19,7 @@ const Home = () => {
       <ExpertiseAccordion></ExpertiseAccordion>
       <FunFacts></FunFacts>
       <HappyUsers></HappyUsers>
+      <UserFeedbacks></UserFeedbacks>
     </>
   );
 };
