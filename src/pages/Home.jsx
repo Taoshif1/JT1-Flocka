@@ -6,6 +6,8 @@ import ExpertiseAccordion from "../components/ExpertiseAccordion";
 import FunFacts from "../components/FunFacts";
 import HappyUsers from "../components/HappyUsers";
 import UserFeedbacks from "../components/UserFeedbacks";
+import ContactSection from "../components/ContactSection";
+import Footer from "../components/Footer";
 
 const Home = () => {
   return (
@@ -20,6 +22,8 @@ const Home = () => {
       <FunFacts></FunFacts>
       <HappyUsers></HappyUsers>
       <UserFeedbacks></UserFeedbacks>
+      <ContactSection></ContactSection>
+      <Footer></Footer>
     </>
   );
 };

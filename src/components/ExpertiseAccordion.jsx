@@ -148,56 +148,56 @@ const ExpertiseAccordion = () => {
             <img
               src="https://i.pravatar.cc/40?u=1"
               className="rounded-full w-8 h-8 grayscale"
-            />{" "}
+            />
             "Best design communicator"
           </div>
           <div className="flex items-center gap-4">
             <img
               src="https://i.pravatar.cc/40?u=2"
               className="rounded-full w-8 h-8 grayscale"
-            />{" "}
+            />
             "10/10 well recommended"
           </div>
           <div className="flex items-center gap-4">
             <img
               src="https://i.pravatar.cc/40?u=3"
               className="rounded-full w-8 h-8 grayscale"
-            />{" "}
+            />
             "Super speedy website designer"
           </div>
           <div className="flex items-center gap-4">
             <img
               src="https://i.pravatar.cc/40?u=4"
               className="rounded-full w-8 h-8 grayscale"
-            />{" "}
+            />
             "Great in UI/UX"
           </div>
           <div className="flex items-center gap-4">
             <img
               src="https://i.pravatar.cc/40?u=1"
               className="rounded-full w-8 h-8 grayscale"
-            />{" "}
+            />
             "Best design communicator"
           </div>
           <div className="flex items-center gap-4">
             <img
               src="https://i.pravatar.cc/40?u=2"
               className="rounded-full w-8 h-8 grayscale"
-            />{" "}
+            />
             "10/10 well recommended"
           </div>
           <div className="flex items-center gap-4">
             <img
               src="https://i.pravatar.cc/40?u=3"
               className="rounded-full w-8 h-8 grayscale"
-            />{" "}
+            />
             "Super speedy website designer"
           </div>
           <div className="flex items-center gap-4">
             <img
               src="https://i.pravatar.cc/40?u=4"
               className="rounded-full w-8 h-8 grayscale"
-            />{" "}
+            />
             "Great in UI/UX"
           </div>
         </motion.div>
