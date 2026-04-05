@@ -1,7 +1,5 @@
 # Job Task - Flocka
 
-
-
 ```
 JT1-Flocka
 ├─ eslint.config.js
@@ -17,8 +15,10 @@ JT1-Flocka
 │  ├─ assets
 │  │  └─ heroVdo.mp4
 │  ├─ components
+│  │  ├─ About.jsx
 │  │  ├─ BrandCard.jsx
 │  │  ├─ Hero.jsx
+│  │  ├─ Logo.jsx
 │  │  ├─ Navbar.jsx
 │  │  └─ ParticleScene.jsx
 │  ├─ index.css

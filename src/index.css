@@ -2,16 +2,17 @@
 @plugin "daisyui";
 
 @theme {
-  --color-primary: #ffffff;
-  --color-secondary: #1a1a1a;
+  --color-hyper-blue: #007bff;
+  --color-hyper-green: #00ff88;
+  --color-hyper-purple: #bd00ff;
+  --color-hyper-orange: #ff6b00;
   
-  /* If you want to use the specific font size from before */
   --font-size-hero: 10rem;
 }
 
 :root {
-  --background-color: #f8f8f8;
-  --color: #1a1a1a;
+  --background-color: #050505;
+  --color: #ffffff;
 }
 
 body {
@@ -22,8 +23,12 @@ body {
   overflow-x: hidden;
 }
 
-/* Custom styles for the project */
-.selection-black::selection {
-  background: black;
+::selection {
+  background-color: #007bff; 
   color: white;
+}
+
+.hyper-blur {
+  filter: blur(120px);
+  opacity: 0.15;
 }

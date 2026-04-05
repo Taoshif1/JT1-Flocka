@@ -1,12 +1,15 @@
 import Hero from "../components/Hero";
-// Import other sections here later
+import About from "../components/About";
+import ParticleScene from "../components/ParticleScene";
 
 const Home = () => {
   return (
-    <>
+     <>
       <Hero />
-      {/* <About /> */}
-      {/* <Portfolio /> */}
+      <div className="relative z-10">
+        <ParticleScene />
+      </div>
+      <About />
     </>
   );
 };
