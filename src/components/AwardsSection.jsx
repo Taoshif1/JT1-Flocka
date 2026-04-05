@@ -53,6 +53,9 @@ const AwardsSection = () => {
 
         <div className="flex flex-col lg:flex-row gap-16">
           <div className="lg:w-1/3">
+            <span className="text-[10px] font-black uppercase tracking-widest text-gray-400">
+              Get Rewards
+            </span>
             <div className="rounded-[2.5rem] overflow-hidden shadow-xl mb-6">
               <img
                 src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=800"
@@ -60,9 +63,6 @@ const AwardsSection = () => {
                 className="w-full h-[400px] object-cover"
               />
             </div>
-            <span className="text-[10px] font-black uppercase tracking-widest text-gray-400">
-              Get Rewards
-            </span>
           </div>
 
           <div className="lg:w-2/3">

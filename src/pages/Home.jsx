@@ -9,6 +9,8 @@ import UserFeedbacks from "../components/UserFeedbacks";
 import ContactSection from "../components/ContactSection";
 import Footer from "../components/Footer";
 import AwardsSection from "../components/AwardsSection";
+import TeamSection from "../components/TeamSection";
+import FAQSection from "../components/FAQSection";
 
 const Home = () => {
   return (
@@ -25,6 +27,8 @@ const Home = () => {
       <UserFeedbacks></UserFeedbacks>
       <ContactSection></ContactSection>
       <AwardsSection></AwardsSection>
+      <TeamSection></TeamSection>
+      <FAQSection></FAQSection>
       <Footer></Footer>
     </>
   );

@@ -21,6 +21,7 @@ JT1-Flocka
 │  │  └─ image5.png
 │  ├─ components
 │  │  ├─ About.jsx
+│  │  ├─ AwardsSection.jsx
 │  │  ├─ BrandCard.jsx
 │  │  ├─ ContactSection.jsx
 │  │  ├─ ExpertiseAccordion.jsx
