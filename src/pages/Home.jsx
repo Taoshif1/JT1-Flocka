@@ -8,6 +8,7 @@ import HappyUsers from "../components/HappyUsers";
 import UserFeedbacks from "../components/UserFeedbacks";
 import ContactSection from "../components/ContactSection";
 import Footer from "../components/Footer";
+import AwardsSection from "../components/AwardsSection";
 
 const Home = () => {
   return (
@@ -23,6 +24,7 @@ const Home = () => {
       <HappyUsers></HappyUsers>
       <UserFeedbacks></UserFeedbacks>
       <ContactSection></ContactSection>
+      <AwardsSection></AwardsSection>
       <Footer></Footer>
     </>
   );
