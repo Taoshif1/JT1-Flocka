@@ -1,0 +1,32 @@
+# Job Task - Flocka
+
+
+
+```
+JT1-Flocka
+├─ eslint.config.js
+├─ index.html
+├─ package-lock.json
+├─ package.json
+├─ public
+│  ├─ favicon.svg
+│  └─ icons.svg
+├─ README.md
+├─ src
+│  ├─ App.jsx
+│  ├─ assets
+│  │  └─ heroVdo.mp4
+│  ├─ components
+│  │  ├─ BrandCard.jsx
+│  │  ├─ Hero.jsx
+│  │  ├─ Navbar.jsx
+│  │  └─ ParticleScene.jsx
+│  ├─ index.css
+│  ├─ layouts
+│  │  └─ MainLayout.jsx
+│  ├─ main.jsx
+│  └─ pages
+│     └─ Home.jsx
+└─ vite.config.js
+
+```

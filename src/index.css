@@ -1,0 +1,29 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@theme {
+  --color-primary: #ffffff;
+  --color-secondary: #1a1a1a;
+  
+  /* If you want to use the specific font size from before */
+  --font-size-hero: 10rem;
+}
+
+:root {
+  --background-color: #f8f8f8;
+  --color: #1a1a1a;
+}
+
+body {
+  margin: 0;
+  background-color: var(--background-color);
+  color: var(--color);
+  font-family: 'Inter', sans-serif;
+  overflow-x: hidden;
+}
+
+/* Custom styles for the project */
+.selection-black::selection {
+  background: black;
+  color: white;
+}
